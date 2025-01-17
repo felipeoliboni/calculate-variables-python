@@ -1,20 +1,20 @@
 # Copper Nanostructure Experiment Calculator
 
-Este é um programa desenvolvido em Python para calcular variáveis e realizar todos os cálculos necessários com base nos dados de um experimento envolvendo nanoestruturas de cobre. O objetivo principal é facilitar o processamento e análise de dados experimentais, fornecendo resultados precisos e confiáveis.
+This Python program was developed to calculate variables and perform all necessary computations based on data from an experiment involving copper nanostructures. Its main purpose is to facilitate data processing and analysis, providing accurate and reliable results.
 
-## Descrição
+## Description
 
-O programa realiza os seguintes cálculos:
-- Cálculo de propriedades físicas e químicas das nanoestruturas de cobre.
-- Análise das propriedades óticas e estruturais.
-- Cálculos relacionados à formação, crescimento e caracterização das nanoestruturas.
-- Cálculos de resistividade elétrica e outras propriedades dependentes do tamanho das nanoestruturas.
+The program performs the following calculations:
+- Calculation of physical and chemical properties of copper nanostructures.
+- Analysis of optical and structural properties.
+- Computations related to formation, growth, and characterization of nanostructures.
+- Calculation of electrical resistivity and other size-dependent properties.
 
-O programa é projetado para ser modular, facilitando a personalização para diferentes tipos de experimentos ou variações nas condições de medição.
+The program is designed to be modular, making it easy to customize for different types of experiments or variations in measurement conditions.
 
-## Funcionalidades
+## Features
 
-- **Entrada de dados experimentais**: Leitura de variáveis de entrada, como temperatura, pressão, concentração de átomos, entre outros.
-- **Cálculos automáticos**: Realiza todos os cálculos necessários para análise das nanoestruturas, com base nas fórmulas químicas e físicas aplicáveis.
-- **Resultados**: Exibe resultados detalhados e gráficos que ajudam na visualização dos dados.
-- **Personalização**: Permite modificar fórmulas e parâmetros conforme as necessidades específicas do experimento.
+- **Input of experimental data**: Reads input variables such as temperature, pressure, atom concentration, etc.
+- **Automatic calculations**: Performs all necessary calculations for nanostructure analysis, based on applicable chemical and physical formulas.
+- **Results**: Displays detailed results and graphs to assist in data visualization.
+- **Customization**: Allows modification of formulas and parameters based on specific experiment requirements.
